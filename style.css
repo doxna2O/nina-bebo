@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.bebo_panel{
+    width: 250px;
+    height: 480px;
+    border: 1px solid grey;
+    background-color: rgb(227, 220, 220);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.btn_bebo{
+    width: 175px;
+    height: 40px;
+    background-color: rgb(0, 255, 21);
+    border: 1px solid black;
+    border-radius: 20px;
+}
+input{
+    border-radius: 9px;
+}
